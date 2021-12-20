@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536902867469",
+    "project_id": "webcam-collection",
+    "storage_bucket": "webcam-collection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536902867469:android:2321d21e4329019cbb1344",
+        "android_client_info": {
+          "package_name": "com.m2ag.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536902867469-hfb3g2nveseq7tnvvjdn48n3dehl4tb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1NebPa45LtCSms6NmEoFcJobajFqqSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536902867469-hfb3g2nveseq7tnvvjdn48n3dehl4tb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
